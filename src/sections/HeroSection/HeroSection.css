@@ -28,7 +28,7 @@
 }
 
 .hero-heading {
-  font-size: 44px;
+  font-size: 36px;
   white-space: nowrap;
   color: white;
 }
@@ -47,7 +47,7 @@
   margin-right: -4rem;
 }
 .image-container img {
-  height: fit-content;
+  height: 90%;
 }
 .private-consultation {
   visibility: hidden;
